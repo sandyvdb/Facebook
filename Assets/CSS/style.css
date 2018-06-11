@@ -1,0 +1,21 @@
+p {
+    text-align: center;
+    color: darkturquoise;
+}
+#orange {
+    color: orange;
+}
+.yellow-green {
+    color: yellowgreen;
+}
+.pink {
+    color: deeppink;
+}
+.image {
+    border: 6px darkcyan solid;
+    padding: 5px;
+  }
+
+.centered-items {
+    text-align: center;
+}
